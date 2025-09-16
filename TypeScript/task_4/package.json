@@ -1,0 +1,14 @@
+{
+  "name": "task_4_project",
+  "version": "1.0.0",
+  "description": "Project task_4 with TS namespaces and declaration merging",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+  "name": "task_3_project",
+  "version": "1.0.0",
+  "description": "Project task_3 with TypeScript and CRUD simulation",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "ts-loader": "^9.4.2",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^5.0.1"
+  }
+}
+
